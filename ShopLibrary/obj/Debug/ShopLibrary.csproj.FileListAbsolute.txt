@@ -1,0 +1,6 @@
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\ShopLibrary\bin\Debug\ShopLibrary.dll
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\ShopLibrary\bin\Debug\ShopLibrary.pdb
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\ShopLibrary\obj\Debug\ShopLibrary.csproj.AssemblyReference.cache
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\ShopLibrary\obj\Debug\ShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\ShopLibrary\obj\Debug\ShopLibrary.dll
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\ShopLibrary\obj\Debug\ShopLibrary.pdb

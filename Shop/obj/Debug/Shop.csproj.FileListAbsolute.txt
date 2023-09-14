@@ -1,0 +1,114 @@
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Library.pdb
+C:\Users\merlber\Desktop\Library\Library\bin\Debug\Library.exe.config
+C:\Users\merlber\Desktop\Library\Library\bin\Debug\Library.exe
+C:\Users\merlber\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\merlber\Desktop\Library\Library\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.Auth.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.MainForm.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.ProductForm.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.ProductFormAdd.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.ProductFormEdit.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.SaleFormAdd.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.SaleFormEdit.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.SalesForm.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.SupplierForm.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.SupplierFormAdd.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.SupplierFormEdit.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.SupplyForm.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.SupplyFormAdd.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.SupplyFormEdit.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.UsersFormAdd.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.UsersFormEdit.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.LoginHistoryForm.resources
+C:\Users\merlber\Desktop\Library\Library\obj\Debug\Shop.UsersForm.resources
+C:\Users\merlber\Desktop\Shop\Library\bin\Debug\Library.exe.config
+C:\Users\merlber\Desktop\Shop\Library\bin\Debug\Library.exe
+C:\Users\merlber\Desktop\Shop\Library\bin\Debug\Library.pdb
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.ProductForm.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.ProductFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.ProductFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.SaleFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.SaleFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.SalesForm.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.SupplierForm.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.SupplierFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.SupplierFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.SupplyForm.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.SupplyFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.SupplyFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.UsersFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.Auth.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.UsersFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.LoginHistoryForm.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.MainForm.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.UsersForm.resources
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Library.exe
+C:\Users\merlber\Desktop\Shop\Library\obj\Debug\Library.pdb
+C:\Users\merlber\Desktop\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\merlber\Desktop\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\merlber\Desktop\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.ProductForm.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.ProductFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.ProductFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.SaleFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.SaleFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.SalesForm.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.SupplierForm.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.SupplierFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.SupplierFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.SupplyForm.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.SupplyFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.SupplyFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.UsersFormAdd.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.Auth.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.UsersFormEdit.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.LoginHistoryForm.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.MainForm.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.UsersForm.resources
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\merlber\Desktop\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.ProductForm.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.ProductFormAdd.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.ProductFormEdit.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.SaleFormAdd.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.SaleFormEdit.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.SalesForm.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.SupplierForm.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.SupplierFormAdd.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.SupplierFormEdit.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.SupplyForm.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.SupplyFormAdd.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.SupplyFormEdit.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.UsersFormAdd.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.Auth.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.UsersFormEdit.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.LoginHistoryForm.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.MainForm.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.UsersForm.resources
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\merlber\Desktop\КОРОЛЕВ Л4\Shop\Shop\obj\Debug\Shop.pdb

@@ -1,4 +1,4 @@
 # Магазин
-![](shop1.png)
-![](shop2.png)
-![](shop3.png)
+![](shop1.PNG)
+![](shop2.PNG)
+![](shop3.PNG)
